@@ -6,12 +6,12 @@ Emails were sent to authors who did not disclose enough code/data for their work
 
 Each email contains portions which were substituted depending on the article and sender. These are defined here:
 
-`<Corresponding Author>`: The corresponding author on the article of interest
-`<Article Title>`: The title of the article of interest
-`<Sender>`: The name of the sender
-`<Article Specific Text>`: Each article was read and an article specific paragraph requesting relavant code/data was created. This is substituted here.
-`<Previous Email>`: The email sent to this corresponding author earlier
-`<Previous Subject>`: The subject of the previous email sent to this corresponding author.
+* `<Corresponding Author>`: The corresponding author on the article of interest
+* `<Article Title>`: The title of the article of interest
+* `<Sender>`: The name of the sender
+* `<Article Specific Text>`: Each article was read and an article specific paragraph requesting relavant code/data was created. This is substituted here.
+* `<Previous Email>`: The email sent to this corresponding author earlier
+* `<Previous Subject>`: The subject of the previous email sent to this corresponding author.
 
 ## First Emails
 
