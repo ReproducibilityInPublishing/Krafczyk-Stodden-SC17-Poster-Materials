@@ -16,6 +16,10 @@ To execute the statistical tests, install [`R`](https://www.r-project.org/about.
 Rscript ./Statistical_Tests.R
 ```
 
+## Email Templates
+
+You can find the email templates used as part of this study in [`EmailTemplates.md`](../EmailTemplates.md).
+
 ## QR Code
 
 To create the QR code, install the [`qrencode`](https://fukuchi.org/works/qrencode/) program and run the following script:
