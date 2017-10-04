@@ -18,7 +18,7 @@ Rscript ./Statistical_Tests.R
 
 ## Email Templates
 
-You can find the email templates used as part of this study in [`EmailTemplates.md`](../EmailTemplates.md).
+You can find the email templates used as part of this study in [`EmailTemplates.md`](EmailTemplates.md).
 
 ## QR Code
 
