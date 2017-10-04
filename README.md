@@ -2,6 +2,12 @@
 
 This package contains scripts for running the statistical tests underpinning our poster, and for producing the QR codes embedded in the poster.
 
+## Citing this work
+
+Please cite as: Matthew S. Krafczyk, V. Stodden, Y. Zheng, and D. Wong. 2017. Assessing the Availability of Source Code in Computational Physics. In Proceedings of Supercomputing 2017 Conference, Denver, Colorado USA, November 2017 (SC'17)
+
+You can also find a bibtex version of this citation in this repository called `cite.bib`. This will also be updated when the proceedings have officially been published with the correct citations.
+
 ## Statistical Tests
 
 To execute the statistical tests, install [`R`](https://www.r-project.org/about.html) and run the following from the command line:
